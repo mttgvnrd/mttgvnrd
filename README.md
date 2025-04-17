@@ -25,7 +25,6 @@
 `Docker` `docker-compose` `TLS` `Alpine`  
 ✔️ Container auto-rebuild da Dockerfile custom  
 ✔️ Configurazione sicura con `.env` e volumi  
-🔧 Bonus in sviluppo: Redis cache  
 *Dominio: mgiovana.42.fr (SSL via TLSv1.3)*  
 
 ---
