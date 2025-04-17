@@ -29,11 +29,6 @@
 
 ---
 
-### 📈 Statistiche GitHub
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=mttgvnrd&show_icons=true&theme=default)
-
----
-
 ### 🌐 Contatti & Social
 - 📧 Email: mattia.giova02@gmail.com  
 - 42 Intra: mgiovana 
