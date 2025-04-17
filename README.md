@@ -30,7 +30,7 @@
 ---
 
 ### 📈 Statistiche GitHub
-![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=tunome&show_icons=true&theme=default)
+![Le tue statistiche](https://github-readme-stats.vercel.app/api?username=mttgvnrd&show_icons=true&theme=default)
 
 ---
 
