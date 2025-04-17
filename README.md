@@ -10,7 +10,7 @@
 - **Linguaggi**: C, C++, Python.
 - **Tools**: Git, Docker, Makefile.
 - **Ambienti**: Linux, VS Code
-- 
+
 ---
 
 ### 🏗 Progetti Recenti
