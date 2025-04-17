@@ -19,7 +19,6 @@
 `C++98` `Socket` `Non-blocking I/O`  
 ✔️ Gestione multi-client con `poll()`  
 ✔️ Supporta comandi base (JOIN, PRIVMSG, MODE)  
-🔧 Bonus in sviluppo: file transfer  
 *Testato con HexChat, Konversation e nc*
 3. **[Inception](https://github.com/mttgvnrd/Inception)** - Infrastruttura Docker con NGINX, WordPress, MariaDB  
 `Docker` `docker-compose` `TLS` `Alpine`  
