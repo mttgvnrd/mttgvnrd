@@ -1,4 +1,4 @@
-# 👋 Ciao, sono [Il Tuo Nome] 
+# 👋 Ciao, sono Mattia Giovanardi
 
 **Studente di programmazione** @ [42 Firenze](https://www.42firenze.it/)  
 📍 Bologna, Italia  
@@ -18,7 +18,7 @@
 ### 🏗 Progetti Recenti
 [Inserisci 2-3 progetti con breve descrizione e link]
 1. **[Nome Progetto](link)** - Breve descrizione (es: "Implementazione in C di un malloc personalizzato")
-2. **[ft_irc][((https://github.com/mttgvnrd/Irc))](https://github.com/mttgvnrd/Irc)** - Server IRC in C++98  
+2. **[ft_irc](https://github.com/mttgvnrd/Irc)** - Server IRC in C++98  
 `C++98` `Socket` `Non-blocking I/O`  
 ✔️ Gestione multi-client con `poll()`  
 ✔️ Supporta comandi base (JOIN, PRIVMSG, MODE)  
