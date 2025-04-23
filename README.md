@@ -29,6 +29,6 @@
 ---
 
 ### 🌐 Contatti & Social
-- 📧 Email: mattia.giova02@gmail.com  
+- 📧 Email: giovanardi.mattia12@gmail.com 
 - 42 Intra: mgiovana 
 
