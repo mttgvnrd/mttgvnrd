@@ -2,7 +2,7 @@
 
 **Studente di programmazione** @mgiovana [42 Firenze](https://42firenze.it/)  
 📍 Bologna, Italia  
-📚 Common Core completato: Aprile 2025
+📚 Common Core completato: Maggio 2025
 
 ---
 
