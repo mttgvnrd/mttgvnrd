@@ -14,7 +14,11 @@
 ---
 
 ### 🏗 Progetti Recenti
-1. **[Nome Progetto](link)** - Breve descrizione (es: "Implementazione in C di un malloc personalizzato")
+1. **[Transcendence](https://github.com/mttgvnrd/Transcendence)** - WebApp multiplayer di Pong con AI e Blockchain  
+`Django` `Docker` `WebSocket` `Solidity`  
+✔️ Autenticazione 2FA + JWT  
+✔️ Punteggi salvati su Ethereum Testnet  
+*SPA full-stack con frontend custom e backend sicuro*
 2. **[ft_irc](https://github.com/mttgvnrd/Irc)** - Server IRC in C++98  
 `C++98` `Socket` `Non-blocking I/O`  
 ✔️ Gestione multi-client con `poll()`  
