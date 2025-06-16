@@ -8,6 +8,9 @@
 
 ### 🛠 Tech Stack
 - **Linguaggi**: C, C++, Python.
+- **Framework**: Django, Bootstrap
+- **DevOps**: Docker, Docker Compose, Nginx
+- **Database**: PostgreSQL, Redis
 - **Tools**: Git, Docker, Makefile.
 - **Ambienti**: Linux, VS Code
 
